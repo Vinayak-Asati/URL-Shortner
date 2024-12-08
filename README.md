@@ -1,3 +1,3 @@
 # URL-Shortner
 # Live Demo
-https://vinayak-asati.github.io/URL-Shortner.github.io/
+https://vinayak-asati.github.io/URL-Shortner/
